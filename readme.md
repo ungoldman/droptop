@@ -13,3 +13,23 @@ Just experimenting with choo, leaflet, & electron for now. Looking to maybe rewr
 - [convo w/ sam & ingrid](https://twitter.com/vancematthews/status/759458736628830209)
 
 Ideas, feedback, & contribs most welcome. Drop 'em in the [issue tracker](../../issues/).
+
+## install
+
+```
+git clone git@github.com:ungoldman/droptop.git
+cd droptop
+npm install
+```
+
+## run
+
+```
+npm start
+```
+
+## test
+
+```
+npm test
+```
