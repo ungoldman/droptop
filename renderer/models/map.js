@@ -23,14 +23,10 @@ module.exports = {
     next: 0
   },
   reducers: {
-    panAndZoom: (data, state) => {
-      return { zoom: data.zoom, center: data.center }
-    },
     next: (data, state) => {
       let current = state.next
       let next = current + 1
       if (current >= state.destinations.length - 1) next = 0
-      console.log(current, next)
 
       return {
         zoom: 10,
