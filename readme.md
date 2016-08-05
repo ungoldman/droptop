@@ -11,6 +11,7 @@ Just experimenting with choo, leaflet, & electron for now. Looking to maybe rewr
 - [mbloch/mapshaper](http://mapshaper.org)
 - [NYCPlanning/postgis-preview](https://github.com/NYCPlanning/postgis-preview)
 - [convo w/ sam & ingrid](https://twitter.com/vancematthews/status/759458736628830209)
+- [mapzen/svg-export](https://github.com/mapzen/svg-export)
 
 Ideas, feedback, & contribs most welcome. Drop 'em in the [issue tracker](../../issues/).
 
