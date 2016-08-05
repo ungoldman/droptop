@@ -23,7 +23,7 @@ module.exports = {
     next: 0
   },
   reducers: {
-    panAndZoom: (data, state)  => {
+    panAndZoom: (data, state) => {
       return { zoom: data.zoom, center: data.center }
     },
     next: (data, state) => {
